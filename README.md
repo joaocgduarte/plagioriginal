@@ -1,6 +1,6 @@
 ## Hi, I'm João :wave:
 
-*Future software engineer for [Truphone](https://www.truphone.com/)*
+*Future full-stack software engineer for [Truphone](https://www.truphone.com/)*
 
 *Previously working with PHP, now working with Go.*
 
