@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi, I'm João :wave:
 
-<!--
-**plagioriginal/plagioriginal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Future software engineer for [Truphone](https://www.truphone.com/)*
 
-Here are some ideas to get you started:
+*Previously working with PHP, now working with Go.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A little bit more about me:
+```javascript
+const joao = {
+  pronouns: "he / him",
+  currentlyLearning: ["golang", "react with typescript", "gRPC services",],
+  provenSkillsWith: ["php", "laravel", "wordpress", "typo3", "sql", "es6", "css", "rest",],
+  otherInterests: ["friends and family", "restaurants", "tv shows", "movies", "music"],
+  knows: "nothing"
+}
+
+while(joao.knows === "nothing") {
+  joao.learn()
+}
+```
