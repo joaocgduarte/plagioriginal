@@ -14,7 +14,7 @@ const joao = {
   knows: "nothing"
 }
 
-while(joao.knows === "nothing") {
+while (joao.knows === "nothing") {
   joao.learn()
 }
 ```
