@@ -8,7 +8,7 @@
 ```javascript
 const joao = {
   pronouns: "he / him",
-  currentlyLearning: ["golang", "react with typescript", "gRPC services",],
+  workingWith: ["golang", "react with typescript", "gRPC services",],
   provenSkillsWith: ["php", "laravel", "wordpress", "typo3", "sql", "es6", "css", "rest",],
   otherInterests: ["friends and family", "restaurants", "tv shows", "movies", "music"],
   knows: "nothing"
