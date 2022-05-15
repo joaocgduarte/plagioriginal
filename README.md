@@ -1,7 +1,7 @@
 ```javascript
 const joao = {
   workingWith: ["golang", "apache-kafka", "gRPC services",],
-  currentlyLearning: ["concorrency in go",],
+  currentlyLearning: ["concurrency in go",],
   provenSkillsWith: ["php", "laravel", "wordpress", "typo3", "sql", "es6", "css", "rest",],
   otherInterests: ["friends and family", "restaurants", "tv shows", "movies", "music"],
   knows: "nothing"
