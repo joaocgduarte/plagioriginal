@@ -3,7 +3,7 @@ const joao = {
   workingWith: ["golang", "apache-kafka", "gRPC services",],
   currentlyLearning: ["concurrency in go",],
   provenSkillsWith: ["php", "laravel", "wordpress", "typo3", "sql", "es6", "css", "rest",],
-  otherInterests: ["friends and family", "restaurants", "tv shows", "movies", "music"],
+  otherInterests: ["friends and family", "restaurants", "reading", "movies", "music"],
   knows: "nothing"
 }
 
